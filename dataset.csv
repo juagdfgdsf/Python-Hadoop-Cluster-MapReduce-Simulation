@@ -1,0 +1,1501 @@
+id,name,category,sales,region
+1,Whole Grain Coffee Beans Bag,Grocery,77,West
+2,Lite Bluetooth Speaker,Electronics,1857,South
+3,Ultra Monitor,Electronics,794,West
+4,Eco Non-stick Pan,Home,294,East
+5,Advanced Blood Pressure Monitor,Health,237,South
+6,Compact Microwave Oven,Home,99,South
+7,Classic Coffee Maker,Home,101,North
+8,Advanced Flash Card Set,Education,146,East
+9,Clinical Pain Relief Gel,Health,289,South
+10,Plus Monitor,Electronics,1679,North
+11,Slim Fit Scarf,Fashion,166,North
+12,Herbal Multivitamin Pack,Health,130,East
+13,Classic Leather Wallet,Fashion,420,East
+14,Daily Blood Pressure Monitor,Health,113,South
+15,Daily Blood Pressure Monitor,Health,286,West
+16,Official Treadmill,Sports,298,East
+17,Premium Basmati Rice Pack,Grocery,38,West
+18,Vintage Sunglasses,Fashion,500,South
+19,Smart Webcam,Electronics,1243,East
+20,Natural Blood Pressure Monitor,Health,211,North
+21,Advanced Hand Sanitizer Pack,Health,242,West
+22,Natural Protein Powder,Health,127,West
+23,Herbal Vitamin C Tablets,Health,213,North
+24,Premium Swimming Goggles,Sports,757,North
+25,Training Yoga Mat,Sports,724,South
+26,Foldable Blender,Home,97,South
+27,Clinical Multivitamin Pack,Health,169,North
+28,Complete Machine Learning Guide,Education,75,West
+29,Premium Oatmeal Pack,Grocery,79,West
+30,Premium Cereal Box,Grocery,107,East
+31,Modern Cushion Cover,Home,572,North
+32,Illustrated Python Book,Education,142,South
+33,Air Webcam,Electronics,380,North
+34,Air External SSD,Electronics,1040,South
+35,Whole Grain Coffee Beans Bag,Grocery,83,East
+36,Lightweight Golf Club,Sports,700,South
+37,Vintage Sneakers,Fashion,113,South
+38,Beginner Coding Notebook,Education,15,East
+39,Beginner Scientific Calculator,Education,44,West
+40,Premium Cereal Box,Grocery,21,North
+41,Concise Encyclopedia Set,Education,78,West
+42,Advanced Java Programming,Education,62,East
+43,Mini Bluetooth Speaker,Electronics,297,South
+44,Illustrated History Atlas,Education,49,North
+45,Pro Tablet,Electronics,764,North
+46,Heavy Duty Basketball,Sports,150,North
+47,Max Smart Plug,Electronics,1614,West
+48,Pro Skipping Rope,Sports,223,North
+49,Smart Drone,Electronics,1791,West
+50,Foldable Curtain Set,Home,556,East
+51,Complete Machine Learning Guide,Education,116,East
+52,Applied History Atlas,Education,134,South
+53,Ultra External SSD,Electronics,363,West
+54,Local Peanut Butter Jar,Grocery,7,West
+55,Applied Data Science Book,Education,105,North
+56,Herbal Protein Powder,Health,77,West
+57,Clinical Protein Powder,Health,116,North
+58,Compact Wall Clock,Home,327,West
+59,Concise Coding Notebook,Education,37,East
+60,Pro Yoga Mat,Sports,103,East
+61,Designer Wool Sweater,Fashion,418,East
+62,Organic Basmati Rice Pack,Grocery,99,East
+63,Concise Coding Notebook,Education,150,North
+64,Trendy Leather Wallet,Fashion,178,South
+65,Fresh Olive Oil Bottle,Grocery,101,West
+66,Formal Wool Sweater,Fashion,175,East
+67,Premium Basmati Rice Pack,Grocery,84,East
+68,Fresh Olive Oil Bottle,Grocery,69,East
+69,Imported Honey Jar,Grocery,65,North
+70,Concise History Atlas,Education,146,West
+71,Herbal First Aid Kit,Health,236,South
+72,Smart USB Hub,Electronics,468,South
+73,Compact Cushion Cover,Home,326,North
+74,Compact Microwave Oven,Home,284,East
+75,Classic Wool Sweater,Fashion,112,South
+76,Outdoor Gym Bag,Sports,761,West
+77,Eco Non-stick Pan,Home,91,South
+78,Concise English Grammar Guide,Education,88,West
+79,Casual Denim Jacket,Fashion,276,East
+80,Organic Almonds Pack,Grocery,63,North
+81,Air Router,Electronics,1211,East
+82,Herbal Multivitamin Pack,Health,25,South
+83,Herbal Face Mask Box,Health,23,West
+84,Applied Statistics Book,Education,43,East
+85,Advanced Java Programming,Education,16,North
+86,Whole Grain Pasta Pack,Grocery,35,North
+87,Formal Belt,Fashion,457,North
+88,Foldable Bedsheet Set,Home,536,South
+89,Premium Tennis Racket,Sports,602,North
+90,Premium Peanut Butter Jar,Grocery,31,East
+91,Official Water Bottle,Sports,566,East
+92,Concise History Atlas,Education,126,East
+93,Wireless Smart Plug,Electronics,711,South
+94,Max Power Bank,Electronics,1732,North
+95,Portable Air Purifier,Home,598,South
+96,Designer Belt,Fashion,206,West
+97,Smart Monitor,Electronics,1912,South
+98,Practical Physics Reference,Education,143,West
+99,Deluxe Bedsheet Set,Home,333,South
+100,Slim Fit Baseball Cap,Fashion,218,South
+101,Herbal Vitamin C Tablets,Health,101,East
+102,Outdoor Water Bottle,Sports,725,South
+103,Practical Exam Prep Kit,Education,134,West
+104,Official Running Shoes,Sports,651,South
+105,Organic Dried Fruits Pack,Grocery,17,South
+106,Advanced Chemistry Lab Manual,Education,80,East
+107,Modern Non-stick Pan,Home,174,South
+108,Portable Curtain Set,Home,152,North
+109,Classic Wall Clock,Home,473,South
+110,Pro Cricket Bat,Sports,265,West
+111,Pro Knee Support,Sports,531,South
+112,Herbal First Aid Kit,Health,158,North
+113,Local Oatmeal Pack,Grocery,49,South
+114,Fresh Olive Oil Bottle,Grocery,64,North
+115,Practical Chemistry Lab Manual,Education,69,North
+116,Plus Headphones,Electronics,343,North
+117,Foldable Non-stick Pan,Home,544,South
+118,Organic Green Tea Box,Grocery,27,North
+119,Official Yoga Mat,Sports,580,North
+120,Trendy Cotton T-Shirt,Fashion,271,North
+121,Applied Deep Learning Book,Education,148,North
+122,Whole Grain Almonds Pack,Grocery,94,South
+123,Trendy Belt,Fashion,393,North
+124,Formal Cotton T-Shirt,Fashion,266,North
+125,Premium Football,Sports,638,South
+126,Daily Digital Thermometer,Health,115,East
+127,Whole Grain Spice Set,Grocery,26,East
+128,Clinical Multivitamin Pack,Health,23,West
+129,Outdoor Knee Support,Sports,744,South
+130,Eco Microwave Oven,Home,22,North
+131,Premium Cereal Box,Grocery,14,South
+132,Illustrated Coding Notebook,Education,120,South
+133,Clinical Vitamin C Tablets,Health,262,South
+134,Foldable Coffee Maker,Home,128,West
+135,Plus Mechanical Keyboard,Electronics,1724,South
+136,Clinical Hand Sanitizer Pack,Health,97,East
+137,Classic Wrist Watch,Fashion,38,South
+138,Advanced Protein Powder,Health,57,South
+139,Classic Coffee Maker,Home,27,South
+140,Deluxe Storage Rack,Home,291,North
+141,Local Coffee Beans Bag,Grocery,62,North
+142,Complete English Grammar Guide,Education,128,North
+143,Wireless Smartphone,Electronics,1861,West
+144,Slim Fit Wool Sweater,Fashion,260,West
+145,Classic Graphics Card,Electronics,1696,North
+146,Local Spice Set,Grocery,15,West
+147,Eco Coffee Maker,Home,86,West
+148,Advanced Statistics Book,Education,75,East
+149,Designer Formal Shoes,Fashion,95,North
+150,Premium Swimming Goggles,Sports,353,North
+151,Modern Curtain Set,Home,320,East
+152,Plus Monitor,Electronics,1454,South
+153,Illustrated Coding Notebook,Education,94,South
+154,Mini Smart Watch,Electronics,1481,East
+155,Natural Herbal Tea Box,Health,290,South
+156,Whole Grain Basmati Rice Pack,Grocery,36,North
+157,Fresh Green Tea Box,Grocery,52,East
+158,Concise Java Programming,Education,29,West
+159,Applied English Grammar Guide,Education,134,North
+160,Concise Data Science Book,Education,18,North
+161,Heavy Duty Cricket Bat,Sports,586,West
+162,Premium Pasta Pack,Grocery,55,South
+163,Ultra VR Headset,Electronics,1867,East
+164,Mini Smartphone,Electronics,731,North
+165,Formal Denim Jacket,Fashion,284,West
+166,Modern Cushion Cover,Home,222,West
+167,Whole Grain Olive Oil Bottle,Grocery,120,North
+168,Beginner English Grammar Guide,Education,66,South
+169,Air Router,Electronics,1229,North
+170,Advanced First Aid Kit,Health,219,East
+171,Formal Baseball Cap,Fashion,103,West
+172,Clinical Blood Pressure Monitor,Health,61,South
+173,Mini Smartphone,Electronics,640,East
+174,Advanced Protein Powder,Health,177,North
+175,Compact Curtain Set,Home,445,West
+176,Fresh Basmati Rice Pack,Grocery,11,West
+177,Pro Headphones,Electronics,1476,North
+178,Foldable Air Purifier,Home,262,East
+179,Clinical Pain Relief Gel,Health,166,South
+180,Max External SSD,Electronics,1823,South
+181,Eco Kitchen Knife Set,Home,62,West
+182,Advanced Face Mask Box,Health,182,East
+183,Applied English Grammar Guide,Education,71,North
+184,Advanced Face Mask Box,Health,265,North
+185,Organic Honey Jar,Grocery,57,North
+186,Foldable Storage Rack,Home,445,West
+187,Junior Skipping Rope,Sports,737,East
+188,Official Skipping Rope,Sports,739,South
+189,Herbal Blood Pressure Monitor,Health,107,North
+190,Junior Basketball,Sports,557,East
+191,Heavy Duty Yoga Mat,Sports,300,West
+192,Advanced Multivitamin Pack,Health,283,West
+193,Fresh Green Tea Box,Grocery,22,West
+194,Formal Formal Shoes,Fashion,22,North
+195,Lite Mechanical Keyboard,Electronics,1888,West
+196,Imported Pasta Pack,Grocery,8,North
+197,Practical Flash Card Set,Education,77,South
+198,Premium Treadmill,Sports,642,East
+199,Practical Flash Card Set,Education,55,West
+200,Classic Graphics Card,Electronics,56,East
+201,Clinical Blood Pressure Monitor,Health,126,North
+202,Portable Cushion Cover,Home,75,North
+203,Imported Honey Jar,Grocery,57,East
+204,Formal Handbag,Fashion,294,South
+205,Whole Grain Green Tea Box,Grocery,22,East
+206,Clinical Vitamin C Tablets,Health,274,East
+207,Classic Backpack,Fashion,320,West
+208,Herbal Herbal Tea Box,Health,275,West
+209,Natural Herbal Tea Box,Health,28,South
+210,Vintage Denim Jacket,Fashion,81,North
+211,Official Badminton Set,Sports,58,West
+212,Beginner English Grammar Guide,Education,21,North
+213,Pro Tablet,Electronics,487,South
+214,Training Boxing Gloves,Sports,417,South
+215,Junior Water Bottle,Sports,110,East
+216,Outdoor Football,Sports,150,South
+217,Advanced Herbal Tea Box,Health,188,South
+218,Designer Baseball Cap,Fashion,40,South
+219,Mini Router,Electronics,1649,East
+220,Advanced Deep Learning Book,Education,80,North
+221,Modern Toaster,Home,234,South
+222,Clinical Vitamin C Tablets,Health,295,West
+223,Practical Machine Learning Guide,Education,82,West
+224,Formal Wool Sweater,Fashion,162,South
+225,Formal Scarf,Fashion,50,North
+226,Concise Coding Notebook,Education,35,East
+227,Premium Honey Jar,Grocery,46,East
+228,Advanced Algebra Workbook,Education,94,East
+229,Formal Handbag,Fashion,442,West
+230,Applied Flash Card Set,Education,18,East
+231,Mini Power Bank,Electronics,676,East
+232,Vintage Wrist Watch,Fashion,58,West
+233,Slim Fit Cotton T-Shirt,Fashion,175,East
+234,Practical Statistics Book,Education,20,South
+235,Herbal First Aid Kit,Health,35,West
+236,Classic Leather Wallet,Fashion,37,South
+237,Clinical Pain Relief Gel,Health,50,North
+238,Compact Kitchen Knife Set,Home,435,East
+239,Pro Skipping Rope,Sports,220,East
+240,Local Oatmeal Pack,Grocery,74,West
+241,Outdoor Camping Tent,Sports,87,North
+242,Official Water Bottle,Sports,408,East
+243,Heavy Duty Dumbbell Set,Sports,446,East
+244,Lightweight Hockey Stick,Sports,82,South
+245,Advanced Herbal Tea Box,Health,8,South
+246,Premium Yoga Mat,Sports,129,East
+247,Complete Exam Prep Kit,Education,21,South
+248,Organic Pasta Pack,Grocery,76,West
+249,Outdoor Camping Tent,Sports,397,West
+250,Lightweight Running Shoes,Sports,227,South
+251,Foldable Toaster,Home,587,South
+252,Foldable Bedsheet Set,Home,49,South
+253,Local Peanut Butter Jar,Grocery,110,East
+254,Trendy Leather Wallet,Fashion,52,South
+255,Pro Boxing Gloves,Sports,626,South
+256,Trendy Leather Wallet,Fashion,272,South
+257,Herbal Blood Pressure Monitor,Health,81,East
+258,Daily Pain Relief Gel,Health,211,South
+259,Portable Blender,Home,100,West
+260,Natural Digital Thermometer,Health,204,West
+261,Organic Olive Oil Bottle,Grocery,114,South
+262,Advanced Herbal Tea Box,Health,57,South
+263,Training Boxing Gloves,Sports,741,South
+264,Slim Fit Belt,Fashion,314,South
+265,Casual Belt,Fashion,453,North
+266,Wireless Smart Watch,Electronics,1621,West
+267,Organic Basmati Rice Pack,Grocery,54,West
+268,Junior Resistance Bands,Sports,578,North
+269,Lite Drone,Electronics,1262,North
+270,Classic Denim Jacket,Fashion,64,East
+271,Beginner Scientific Calculator,Education,36,East
+272,Pro Headphones,Electronics,1501,East
+273,Casual Belt,Fashion,199,North
+274,Official Badminton Set,Sports,769,North
+275,Premium Knee Support,Sports,265,South
+276,Lite Monitor,Electronics,460,South
+277,Complete History Atlas,Education,67,North
+278,Pro Smart Watch,Electronics,353,South
+279,Vintage Hooded Sweatshirt,Fashion,293,West
+280,Casual Belt,Fashion,273,South
+281,Outdoor Boxing Gloves,Sports,380,South
+282,Daily Pain Relief Gel,Health,227,South
+283,Classic Air Purifier,Home,412,South
+284,Clinical First Aid Kit,Health,165,West
+285,Wireless Smart Watch,Electronics,1443,West
+286,Eco Coffee Maker,Home,58,South
+287,Whole Grain Green Tea Box,Grocery,118,West
+288,Whole Grain Coffee Beans Bag,Grocery,14,West
+289,Whole Grain Pasta Pack,Grocery,33,East
+290,Air Action Camera,Electronics,860,East
+291,Whole Grain Cereal Box,Grocery,43,North
+292,Classic Non-stick Pan,Home,480,North
+293,Clinical Blood Pressure Monitor,Health,287,South
+294,Vintage Belt,Fashion,296,East
+295,Trendy Wool Sweater,Fashion,375,North
+296,Portable Mop Set,Home,406,West
+297,Practical Statistics Book,Education,41,East
+298,Max Gaming Mouse,Electronics,1166,West
+299,Modern Vacuum Cleaner,Home,165,East
+300,Mini Drone,Electronics,1484,West
+301,Plus Action Camera,Electronics,1428,South
+302,Foldable Mop Set,Home,507,West
+303,Beginner Coding Notebook,Education,23,South
+304,Advanced First Aid Kit,Health,43,North
+305,Heavy Duty Boxing Gloves,Sports,313,West
+306,Clinical Protein Powder,Health,161,South
+307,Trendy Formal Shoes,Fashion,211,West
+308,Training Running Shoes,Sports,733,West
+309,Local Basmati Rice Pack,Grocery,47,North
+310,Fresh Basmati Rice Pack,Grocery,119,East
+311,Foldable Air Purifier,Home,191,East
+312,Clinical Digital Thermometer,Health,18,West
+313,Outdoor Camping Tent,Sports,646,South
+314,Fresh Honey Jar,Grocery,35,North
+315,Concise Exam Prep Kit,Education,85,South
+316,Casual Backpack,Fashion,291,South
+317,Advanced Protein Powder,Health,75,South
+318,Whole Grain Spice Set,Grocery,19,North
+319,Vintage Hooded Sweatshirt,Fashion,389,South
+320,Portable Microwave Oven,Home,136,West
+321,Foldable Vacuum Cleaner,Home,117,North
+322,Smart Gaming Mouse,Electronics,1983,South
+323,Foldable Bedsheet Set,Home,434,North
+324,Trendy Leather Wallet,Fashion,308,North
+325,Practical Calculus Textbook,Education,85,West
+326,Applied Algebra Workbook,Education,118,North
+327,Whole Grain Olive Oil Bottle,Grocery,60,South
+328,Foldable Bedsheet Set,Home,388,North
+329,Air Webcam,Electronics,623,South
+330,Portable Blender,Home,29,North
+331,Local Pasta Pack,Grocery,63,North
+332,Modern Air Purifier,Home,239,South
+333,Deluxe Microwave Oven,Home,109,West
+334,Portable Wall Clock,Home,460,East
+335,Whole Grain Peanut Butter Jar,Grocery,96,West
+336,Clinical Blood Pressure Monitor,Health,136,North
+337,Natural Herbal Tea Box,Health,299,East
+338,Premium Cycling Helmet,Sports,764,East
+339,Designer Belt,Fashion,480,East
+340,Eco Mop Set,Home,485,North
+341,Classic Bedsheet Set,Home,59,North
+342,Local Basmati Rice Pack,Grocery,9,West
+343,Pro VR Headset,Electronics,1676,South
+344,Premium Dried Fruits Pack,Grocery,12,North
+345,Max Action Camera,Electronics,197,East
+346,Herbal Herbal Tea Box,Health,68,South
+347,Classic Sunglasses,Fashion,488,South
+348,Clinical First Aid Kit,Health,103,West
+349,Slim Fit Sunglasses,Fashion,492,East
+350,Max Laptop,Electronics,1050,South
+351,Slim Fit Backpack,Fashion,67,North
+352,Modern Toaster,Home,480,South
+353,Concise English Grammar Guide,Education,112,North
+354,Deluxe Non-stick Pan,Home,453,North
+355,Compact Coffee Maker,Home,77,South
+356,Organic Pasta Pack,Grocery,37,North
+357,Whole Grain Basmati Rice Pack,Grocery,5,West
+358,Slim Fit Scarf,Fashion,484,West
+359,Deluxe Air Purifier,Home,476,North
+360,Beginner Exam Prep Kit,Education,23,West
+361,Whole Grain Green Tea Box,Grocery,30,South
+362,Daily First Aid Kit,Health,273,South
+363,Pro Headphones,Electronics,1041,North
+364,Complete English Grammar Guide,Education,45,West
+365,Plus Smart Watch,Electronics,1115,North
+366,Whole Grain Honey Jar,Grocery,85,South
+367,Practical Encyclopedia Set,Education,134,South
+368,Vintage Handbag,Fashion,73,East
+369,Eco Mop Set,Home,253,West
+370,Compact Curtain Set,Home,349,East
+371,Daily Blood Pressure Monitor,Health,39,West
+372,Air Action Camera,Electronics,1800,West
+373,Pro Golf Club,Sports,797,North
+374,Ultra Headphones,Electronics,1476,South
+375,Eco Cushion Cover,Home,180,North
+376,Natural First Aid Kit,Health,233,North
+377,Illustrated Algebra Workbook,Education,58,North
+378,Local Peanut Butter Jar,Grocery,52,North
+379,Formal Wrist Watch,Fashion,239,West
+380,Natural Pain Relief Gel,Health,242,North
+381,Plus Drone,Electronics,256,West
+382,Complete Deep Learning Book,Education,32,East
+383,Advanced English Grammar Guide,Education,117,East
+384,Designer Scarf,Fashion,368,South
+385,Concise Flash Card Set,Education,92,East
+386,Ultra Smartphone,Electronics,1696,West
+387,Casual Baseball Cap,Fashion,383,North
+388,Local Spice Set,Grocery,103,West
+389,Lightweight Swimming Goggles,Sports,686,West
+390,Beginner Coding Notebook,Education,66,South
+391,Modern Toaster,Home,217,East
+392,Illustrated Python Book,Education,12,North
+393,Casual Wool Sweater,Fashion,248,North
+394,Natural Herbal Tea Box,Health,39,South
+395,Complete Coding Notebook,Education,117,South
+396,Slim Fit Baseball Cap,Fashion,368,South
+397,Illustrated Exam Prep Kit,Education,128,South
+398,Premium Basmati Rice Pack,Grocery,101,North
+399,Natural Vitamin C Tablets,Health,9,East
+400,Practical Data Science Book,Education,94,East
+401,Formal Handbag,Fashion,294,South
+402,Natural Vitamin C Tablets,Health,149,South
+403,Trendy Scarf,Fashion,465,South
+404,Eco Air Purifier,Home,187,South
+405,Clinical Face Mask Box,Health,63,West
+406,Lightweight Water Bottle,Sports,583,West
+407,Daily Blood Pressure Monitor,Health,161,East
+408,Daily Herbal Tea Box,Health,144,North
+409,Applied Flash Card Set,Education,54,East
+410,Max Gaming Mouse,Electronics,713,East
+411,Local Olive Oil Bottle,Grocery,51,East
+412,Imported Honey Jar,Grocery,89,North
+413,Heavy Duty Treadmill,Sports,507,South
+414,Clinical Digital Thermometer,Health,242,South
+415,Whole Grain Basmati Rice Pack,Grocery,31,East
+416,Imported Spice Set,Grocery,81,East
+417,Premium Camping Tent,Sports,658,South
+418,Air Mechanical Keyboard,Electronics,1443,East
+419,Daily Protein Powder,Health,48,West
+420,Ultra Laptop,Electronics,521,West
+421,Formal Baseball Cap,Fashion,33,East
+422,Portable Blender,Home,526,East
+423,Illustrated English Grammar Guide,Education,28,West
+424,Classic Bedsheet Set,Home,47,North
+425,Vintage Leather Wallet,Fashion,130,North
+426,Classic Wrist Watch,Fashion,370,East
+427,Official Football,Sports,118,North
+428,Plus Drone,Electronics,288,East
+429,Vintage Belt,Fashion,224,North
+430,Portable Coffee Maker,Home,115,East
+431,Classic Headphones,Electronics,1378,East
+432,Herbal Face Mask Box,Health,135,South
+433,Wireless Smart Plug,Electronics,817,West
+434,Practical Machine Learning Guide,Education,122,West
+435,Concise English Grammar Guide,Education,78,West
+436,Imported Cereal Box,Grocery,29,East
+437,Junior Yoga Mat,Sports,702,North
+438,Deluxe Kitchen Knife Set,Home,273,East
+439,Portable Curtain Set,Home,329,North
+440,Heavy Duty Golf Club,Sports,428,West
+441,Beginner History Atlas,Education,83,East
+442,Slim Fit Baseball Cap,Fashion,410,East
+443,Complete Flash Card Set,Education,62,West
+444,Vintage Cotton T-Shirt,Fashion,17,South
+445,Training Basketball,Sports,560,South
+446,Casual Formal Shoes,Fashion,251,East
+447,Daily Vitamin C Tablets,Health,93,West
+448,Classic Formal Shoes,Fashion,37,East
+449,Portable Cushion Cover,Home,129,East
+450,Portable Wall Clock,Home,267,South
+451,Outdoor Football,Sports,49,East
+452,Lite VR Headset,Electronics,397,South
+453,Fresh Spice Set,Grocery,120,East
+454,Outdoor Hockey Stick,Sports,105,West
+455,Herbal Blood Pressure Monitor,Health,134,North
+456,Clinical First Aid Kit,Health,120,West
+457,Classic Coffee Maker,Home,534,East
+458,Beginner Deep Learning Book,Education,80,North
+459,Casual Backpack,Fashion,274,North
+460,Smart Webcam,Electronics,824,South
+461,Herbal Hand Sanitizer Pack,Health,279,East
+462,Clinical Herbal Tea Box,Health,183,South
+463,Premium Coffee Beans Bag,Grocery,47,East
+464,Modern Cushion Cover,Home,187,North
+465,Fresh Almonds Pack,Grocery,41,North
+466,Advanced Herbal Tea Box,Health,190,South
+467,Trendy Denim Jacket,Fashion,173,South
+468,Official Water Bottle,Sports,177,West
+469,Formal Denim Jacket,Fashion,100,East
+470,Smart Smartphone,Electronics,384,West
+471,Mini Bluetooth Speaker,Electronics,1245,East
+472,Advanced Hand Sanitizer Pack,Health,287,South
+473,Practical Coding Notebook,Education,125,West
+474,Herbal Hand Sanitizer Pack,Health,291,South
+475,Organic Peanut Butter Jar,Grocery,110,West
+476,Premium Spice Set,Grocery,27,South
+477,Smart Fitness Tracker,Electronics,1373,South
+478,Daily Vitamin C Tablets,Health,157,West
+479,Eco Non-stick Pan,Home,51,West
+480,Fresh Peanut Butter Jar,Grocery,16,South
+481,Modern Curtain Set,Home,386,South
+482,Classic Mechanical Keyboard,Electronics,1240,South
+483,Practical Flash Card Set,Education,19,North
+484,Complete Encyclopedia Set,Education,149,West
+485,Concise Flash Card Set,Education,49,West
+486,Applied Deep Learning Book,Education,17,West
+487,Official Basketball,Sports,585,East
+488,Premium Camping Tent,Sports,566,West
+489,Eco Toaster,Home,507,South
+490,Whole Grain Coffee Beans Bag,Grocery,24,East
+491,Daily Pain Relief Gel,Health,72,South
+492,Designer Backpack,Fashion,147,East
+493,Natural First Aid Kit,Health,58,South
+494,Formal Handbag,Fashion,366,South
+495,Herbal Blood Pressure Monitor,Health,9,East
+496,Whole Grain Oatmeal Pack,Grocery,37,West
+497,Premium Football,Sports,447,South
+498,Clinical Face Mask Box,Health,187,North
+499,Mini Gaming Mouse,Electronics,1858,West
+500,Herbal Herbal Tea Box,Health,109,South
+501,Beginner English Grammar Guide,Education,30,South
+502,Concise Data Science Book,Education,29,North
+503,Premium Yoga Mat,Sports,779,South
+504,Premium Knee Support,Sports,326,South
+505,Foldable Air Purifier,Home,370,West
+506,Deluxe Toaster,Home,82,South
+507,Pro Fitness Tracker,Electronics,1029,East
+508,Junior Cricket Bat,Sports,353,North
+509,Pro Gym Bag,Sports,246,South
+510,Advanced Statistics Book,Education,150,West
+511,Imported Coffee Beans Bag,Grocery,85,East
+512,Premium Peanut Butter Jar,Grocery,100,South
+513,Complete Flash Card Set,Education,29,South
+514,Herbal Herbal Tea Box,Health,293,North
+515,Formal Wrist Watch,Fashion,357,West
+516,Deluxe Kitchen Knife Set,Home,321,East
+517,Smart Monitor,Electronics,117,North
+518,Illustrated Data Science Book,Education,77,North
+519,Classic Bedsheet Set,Home,477,South
+520,Daily Blood Pressure Monitor,Health,128,West
+521,Pro Graphics Card,Electronics,768,South
+522,Fresh Spice Set,Grocery,71,North
+523,Training Boxing Gloves,Sports,268,West
+524,Max USB Hub,Electronics,1479,East
+525,Heavy Duty Skipping Rope,Sports,418,South
+526,Whole Grain Cereal Box,Grocery,72,South
+527,Compact Microwave Oven,Home,482,East
+528,Complete Python Book,Education,76,East
+529,Clinical Digital Thermometer,Health,233,South
+530,Wireless Smart Watch,Electronics,1649,East
+531,Smart Power Bank,Electronics,1366,South
+532,Complete Flash Card Set,Education,149,West
+533,Classic Curtain Set,Home,138,West
+534,Modern Non-stick Pan,Home,92,West
+535,Training Yoga Mat,Sports,176,East
+536,Official Camping Tent,Sports,554,East
+537,Vintage Scarf,Fashion,342,West
+538,Foldable Storage Rack,Home,166,East
+539,Trendy Sunglasses,Fashion,303,South
+540,Air Drone,Electronics,1941,North
+541,Formal Handbag,Fashion,41,East
+542,Illustrated English Grammar Guide,Education,30,East
+543,Training Golf Club,Sports,398,West
+544,Premium Badminton Set,Sports,655,East
+545,Local Pasta Pack,Grocery,96,West
+546,Junior Football,Sports,764,West
+547,Formal Belt,Fashion,403,North
+548,Natural Face Mask Box,Health,145,North
+549,Whole Grain Olive Oil Bottle,Grocery,116,North
+550,Modern Kitchen Knife Set,Home,371,North
+551,Daily Face Mask Box,Health,120,South
+552,Training Camping Tent,Sports,65,North
+553,Illustrated Java Programming,Education,66,West
+554,Compact Coffee Maker,Home,335,East
+555,Applied Encyclopedia Set,Education,103,North
+556,Applied Physics Reference,Education,42,North
+557,Premium Olive Oil Bottle,Grocery,42,East
+558,Local Cereal Box,Grocery,48,East
+559,Official Knee Support,Sports,690,West
+560,Beginner Java Programming,Education,37,West
+561,Illustrated Encyclopedia Set,Education,75,East
+562,Herbal Face Mask Box,Health,219,North
+563,Concise Coding Notebook,Education,43,North
+564,Modern Cushion Cover,Home,124,North
+565,Vintage Backpack,Fashion,388,East
+566,Complete Python Book,Education,101,North
+567,Classic Belt,Fashion,266,West
+568,Mini Smart Watch,Electronics,1426,South
+569,Foldable Mop Set,Home,372,North
+570,Portable Toaster,Home,338,East
+571,Lightweight Cricket Bat,Sports,672,East
+572,Slim Fit Cotton T-Shirt,Fashion,479,South
+573,Classic Storage Rack,Home,561,East
+574,Premium Swimming Goggles,Sports,74,North
+575,Casual Cotton T-Shirt,Fashion,460,East
+576,Lite Smart Plug,Electronics,1516,South
+577,Advanced Algebra Workbook,Education,83,East
+578,Vintage Sunglasses,Fashion,355,North
+579,Deluxe Mop Set,Home,274,North
+580,Organic Cereal Box,Grocery,83,West
+581,Vintage Backpack,Fashion,433,East
+582,Classic Laptop,Electronics,231,South
+583,Lightweight Gym Bag,Sports,467,North
+584,Illustrated Chemistry Lab Manual,Education,12,South
+585,Slim Fit Denim Jacket,Fashion,272,West
+586,Eco Table Lamp,Home,20,North
+587,Complete Encyclopedia Set,Education,64,North
+588,Beginner Data Science Book,Education,81,North
+589,Mini Bluetooth Speaker,Electronics,1280,North
+590,Classic Sunglasses,Fashion,240,East
+591,Daily Face Mask Box,Health,263,South
+592,Lightweight Treadmill,Sports,488,West
+593,Classic Belt,Fashion,442,North
+594,Ultra Fitness Tracker,Electronics,1274,North
+595,Outdoor Cycling Helmet,Sports,79,East
+596,Eco Cushion Cover,Home,56,South
+597,Premium Football,Sports,606,North
+598,Complete Statistics Book,Education,50,West
+599,Local Green Tea Box,Grocery,11,West
+600,Premium Pasta Pack,Grocery,20,South
+601,Trendy Backpack,Fashion,428,East
+602,Wireless Tablet,Electronics,68,East
+603,Applied Exam Prep Kit,Education,88,North
+604,Concise Deep Learning Book,Education,92,North
+605,Slim Fit Wool Sweater,Fashion,24,North
+606,Pro Basketball,Sports,691,South
+607,Classic Mop Set,Home,501,East
+608,Deluxe Microwave Oven,Home,442,East
+609,Plus Smartphone,Electronics,933,North
+610,Plus Webcam,Electronics,1667,East
+611,Clinical Multivitamin Pack,Health,101,South
+612,Casual Scarf,Fashion,373,East
+613,Modern Cushion Cover,Home,81,South
+614,Premium Skipping Rope,Sports,109,West
+615,Deluxe Mop Set,Home,590,South
+616,Eco Curtain Set,Home,387,East
+617,Ultra Router,Electronics,1419,North
+618,Designer Wrist Watch,Fashion,266,South
+619,Compact Non-stick Pan,Home,360,East
+620,Pro Swimming Goggles,Sports,40,South
+621,Trendy Leather Wallet,Fashion,218,East
+622,Eco Vacuum Cleaner,Home,573,East
+623,Outdoor Tennis Racket,Sports,283,West
+624,Illustrated English Grammar Guide,Education,100,North
+625,Lightweight Camping Tent,Sports,789,West
+626,Concise Exam Prep Kit,Education,71,North
+627,Portable Bedsheet Set,Home,478,North
+628,Advanced Pain Relief Gel,Health,175,West
+629,Herbal Blood Pressure Monitor,Health,171,North
+630,Trendy Backpack,Fashion,213,East
+631,Premium Peanut Butter Jar,Grocery,37,North
+632,Advanced Protein Powder,Health,150,West
+633,Outdoor Resistance Bands,Sports,787,West
+634,Imported Basmati Rice Pack,Grocery,98,West
+635,Mini Smart Plug,Electronics,733,South
+636,Organic Peanut Butter Jar,Grocery,63,East
+637,Premium Cricket Bat,Sports,655,East
+638,Deluxe Air Purifier,Home,435,East
+639,Complete Scientific Calculator,Education,146,North
+640,Lite External SSD,Electronics,949,West
+641,Compact Blender,Home,167,East
+642,Imported Honey Jar,Grocery,103,East
+643,Mini Headphones,Electronics,1476,North
+644,Practical Statistics Book,Education,72,West
+645,Premium Basmati Rice Pack,Grocery,90,North
+646,Outdoor Dumbbell Set,Sports,212,North
+647,Advanced Blood Pressure Monitor,Health,254,East
+648,Illustrated Exam Prep Kit,Education,144,South
+649,Max Fitness Tracker,Electronics,1483,South
+650,Trendy Sunglasses,Fashion,182,East
+651,Max Headphones,Electronics,152,East
+652,Clinical Pain Relief Gel,Health,119,West
+653,Organic Coffee Beans Bag,Grocery,37,North
+654,Natural Protein Powder,Health,153,North
+655,Compact Table Lamp,Home,321,North
+656,Junior Cricket Bat,Sports,599,West
+657,Classic Wool Sweater,Fashion,19,North
+658,Air Bluetooth Speaker,Electronics,1529,South
+659,Training Skipping Rope,Sports,640,South
+660,Advanced Blood Pressure Monitor,Health,24,East
+661,Organic Peanut Butter Jar,Grocery,112,North
+662,Casual Leather Wallet,Fashion,386,South
+663,Herbal Herbal Tea Box,Health,34,South
+664,Practical Java Programming,Education,33,South
+665,Organic Peanut Butter Jar,Grocery,42,East
+666,Ultra VR Headset,Electronics,1023,South
+667,Junior Camping Tent,Sports,406,South
+668,Modern Cushion Cover,Home,312,South
+669,Junior Running Shoes,Sports,768,South
+670,Portable Vacuum Cleaner,Home,389,East
+671,Imported Cereal Box,Grocery,57,North
+672,Classic Sunglasses,Fashion,35,South
+673,Modern Microwave Oven,Home,278,East
+674,Advanced Blood Pressure Monitor,Health,238,South
+675,Classic Cotton T-Shirt,Fashion,435,East
+676,Beginner Java Programming,Education,84,South
+677,Modern Microwave Oven,Home,233,West
+678,Clinical Protein Powder,Health,113,West
+679,Casual Handbag,Fashion,93,West
+680,Classic Cotton T-Shirt,Fashion,100,West
+681,Natural First Aid Kit,Health,66,South
+682,Eco Toaster,Home,414,West
+683,Daily Hand Sanitizer Pack,Health,115,South
+684,Compact Bedsheet Set,Home,295,West
+685,Imported Coffee Beans Bag,Grocery,28,East
+686,Natural Herbal Tea Box,Health,168,South
+687,Practical Java Programming,Education,100,West
+688,Classic Baseball Cap,Fashion,176,North
+689,Lite Bluetooth Speaker,Electronics,44,East
+690,Eco Non-stick Pan,Home,377,West
+691,Organic Oatmeal Pack,Grocery,113,South
+692,Advanced Python Book,Education,91,North
+693,Plus Fitness Tracker,Electronics,1028,West
+694,Imported Basmati Rice Pack,Grocery,104,South
+695,Illustrated Encyclopedia Set,Education,136,West
+696,Imported Honey Jar,Grocery,87,East
+697,Heavy Duty Knee Support,Sports,274,East
+698,Natural Face Mask Box,Health,14,North
+699,Organic Oatmeal Pack,Grocery,92,South
+700,Concise Scientific Calculator,Education,148,North
+701,Compact Blender,Home,98,East
+702,Slim Fit Baseball Cap,Fashion,95,West
+703,Illustrated Algebra Workbook,Education,132,East
+704,Slim Fit Formal Shoes,Fashion,439,West
+705,Trendy Wrist Watch,Fashion,247,West
+706,Air Smartphone,Electronics,686,East
+707,Herbal Multivitamin Pack,Health,33,South
+708,Outdoor Golf Club,Sports,154,North
+709,Beginner Encyclopedia Set,Education,146,North
+710,Classic Power Bank,Electronics,1527,East
+711,Designer Handbag,Fashion,231,South
+712,Daily Vitamin C Tablets,Health,219,South
+713,Fresh Pasta Pack,Grocery,24,West
+714,Herbal Multivitamin Pack,Health,289,North
+715,Max USB Hub,Electronics,643,West
+716,Outdoor Boxing Gloves,Sports,360,West
+717,Clinical Hand Sanitizer Pack,Health,169,West
+718,Classic Hooded Sweatshirt,Fashion,75,South
+719,Slim Fit Baseball Cap,Fashion,259,West
+720,Classic Kitchen Knife Set,Home,516,East
+721,Foldable Mop Set,Home,300,South
+722,Foldable Bedsheet Set,Home,219,West
+723,Junior Badminton Set,Sports,90,West
+724,Pro Tablet,Electronics,184,East
+725,Herbal Digital Thermometer,Health,17,North
+726,Imported Almonds Pack,Grocery,24,North
+727,Trendy Sunglasses,Fashion,102,East
+728,Portable Storage Rack,Home,64,West
+729,Whole Grain Basmati Rice Pack,Grocery,57,East
+730,Lightweight Skipping Rope,Sports,598,East
+731,Complete Algebra Workbook,Education,120,East
+732,Fresh Oatmeal Pack,Grocery,94,South
+733,Formal Sneakers,Fashion,366,North
+734,Wireless VR Headset,Electronics,1303,South
+735,Trendy Belt,Fashion,181,West
+736,Trendy Wool Sweater,Fashion,181,North
+737,Slim Fit Sneakers,Fashion,212,North
+738,Casual Wrist Watch,Fashion,417,East
+739,Organic Basmati Rice Pack,Grocery,47,West
+740,Classic Backpack,Fashion,54,North
+741,Fresh Dried Fruits Pack,Grocery,79,West
+742,Training Knee Support,Sports,126,South
+743,Trendy Denim Jacket,Fashion,302,South
+744,Classic Curtain Set,Home,157,West
+745,Advanced Java Programming,Education,74,West
+746,Whole Grain Spice Set,Grocery,7,North
+747,Air Fitness Tracker,Electronics,1242,North
+748,Lightweight Cycling Helmet,Sports,441,East
+749,Deluxe Non-stick Pan,Home,213,South
+750,Trendy Belt,Fashion,359,East
+751,Wireless Drone,Electronics,1454,North
+752,Illustrated Coding Notebook,Education,93,North
+753,Formal Wrist Watch,Fashion,37,West
+754,Advanced Calculus Textbook,Education,71,East
+755,Practical Java Programming,Education,36,East
+756,Classic Action Camera,Electronics,454,South
+757,Foldable Cushion Cover,Home,419,West
+758,Herbal Blood Pressure Monitor,Health,211,South
+759,Herbal Face Mask Box,Health,198,West
+760,Formal Sneakers,Fashion,83,West
+761,Trendy Wool Sweater,Fashion,338,West
+762,Classic Handbag,Fashion,326,East
+763,Formal Wool Sweater,Fashion,168,North
+764,Practical Deep Learning Book,Education,94,East
+765,Classic Blender,Home,64,East
+766,Whole Grain Peanut Butter Jar,Grocery,51,North
+767,Classic Drone,Electronics,1904,South
+768,Advanced Machine Learning Guide,Education,107,North
+769,Plus Fitness Tracker,Electronics,1165,West
+770,Herbal Blood Pressure Monitor,Health,283,East
+771,Fresh Green Tea Box,Grocery,116,East
+772,Whole Grain Cereal Box,Grocery,31,South
+773,Modern Table Lamp,Home,305,East
+774,Designer Formal Shoes,Fashion,87,North
+775,Premium Honey Jar,Grocery,75,North
+776,Junior Knee Support,Sports,513,North
+777,Complete Calculus Textbook,Education,148,North
+778,Local Peanut Butter Jar,Grocery,43,South
+779,Fresh Cereal Box,Grocery,57,West
+780,Mini Mechanical Keyboard,Electronics,1555,South
+781,Organic Basmati Rice Pack,Grocery,17,West
+782,Fresh Spice Set,Grocery,43,South
+783,Pro Gaming Mouse,Electronics,1666,East
+784,Classic Storage Rack,Home,143,South
+785,Air Smart Watch,Electronics,523,West
+786,Foldable Curtain Set,Home,573,East
+787,Vintage Sneakers,Fashion,141,East
+788,Plus USB Hub,Electronics,1937,West
+789,Portable Wall Clock,Home,82,East
+790,Deluxe Cushion Cover,Home,85,North
+791,Eco Vacuum Cleaner,Home,115,West
+792,Casual Hooded Sweatshirt,Fashion,335,East
+793,Pro Resistance Bands,Sports,411,North
+794,Advanced Hand Sanitizer Pack,Health,218,West
+795,Eco Wall Clock,Home,220,South
+796,Max Smartphone,Electronics,585,West
+797,Imported Basmati Rice Pack,Grocery,53,East
+798,Organic Olive Oil Bottle,Grocery,88,South
+799,Classic Cotton T-Shirt,Fashion,387,South
+800,Fresh Basmati Rice Pack,Grocery,34,North
+801,Local Honey Jar,Grocery,69,West
+802,Casual Baseball Cap,Fashion,137,South
+803,Foldable Kitchen Knife Set,Home,599,South
+804,Herbal Digital Thermometer,Health,291,North
+805,Herbal Vitamin C Tablets,Health,22,North
+806,Applied Java Programming,Education,33,West
+807,Compact Toaster,Home,466,West
+808,Portable Storage Rack,Home,503,South
+809,Outdoor Cycling Helmet,Sports,339,East
+810,Slim Fit Backpack,Fashion,499,North
+811,Foldable Toaster,Home,223,East
+812,Classic USB Hub,Electronics,1153,West
+813,Premium Oatmeal Pack,Grocery,41,East
+814,Local Basmati Rice Pack,Grocery,113,South
+815,Herbal Face Mask Box,Health,252,North
+816,Slim Fit Wool Sweater,Fashion,15,West
+817,Clinical Herbal Tea Box,Health,266,West
+818,Pro Smartphone,Electronics,1740,South
+819,Concise Physics Reference,Education,100,East
+820,Daily Pain Relief Gel,Health,62,North
+821,Eco Curtain Set,Home,388,North
+822,Lite Router,Electronics,1047,North
+823,Local Pasta Pack,Grocery,28,West
+824,Junior Cycling Helmet,Sports,687,South
+825,Plus VR Headset,Electronics,1608,North
+826,Modern Air Purifier,Home,331,North
+827,Slim Fit Denim Jacket,Fashion,40,East
+828,Advanced Data Science Book,Education,20,North
+829,Official Cricket Bat,Sports,629,West
+830,Smart Laptop,Electronics,176,West
+831,Advanced Python Book,Education,11,North
+832,Local Coffee Beans Bag,Grocery,70,East
+833,Lite External SSD,Electronics,716,West
+834,Pro Football,Sports,678,North
+835,Premium Water Bottle,Sports,509,South
+836,Daily Multivitamin Pack,Health,76,West
+837,Local Almonds Pack,Grocery,33,East
+838,Classic Baseball Cap,Fashion,285,North
+839,Organic Basmati Rice Pack,Grocery,119,South
+840,Eco Blender,Home,171,North
+841,Pro Mechanical Keyboard,Electronics,389,East
+842,Organic Almonds Pack,Grocery,90,South
+843,Compact Coffee Maker,Home,340,South
+844,Advanced Algebra Workbook,Education,94,South
+845,Pro Cricket Bat,Sports,27,South
+846,Local Coffee Beans Bag,Grocery,76,West
+847,Organic Coffee Beans Bag,Grocery,61,South
+848,Advanced Face Mask Box,Health,149,East
+849,Natural Face Mask Box,Health,62,North
+850,Trendy Baseball Cap,Fashion,378,West
+851,Herbal Blood Pressure Monitor,Health,76,West
+852,Modern Storage Rack,Home,331,West
+853,Concise Data Science Book,Education,74,North
+854,Max Action Camera,Electronics,1248,East
+855,Advanced Herbal Tea Box,Health,49,West
+856,Beginner Scientific Calculator,Education,93,South
+857,Advanced History Atlas,Education,82,West
+858,Organic Oatmeal Pack,Grocery,120,East
+859,Junior Gym Bag,Sports,91,North
+860,Lightweight Badminton Set,Sports,759,North
+861,Formal Leather Wallet,Fashion,117,South
+862,Classic Scarf,Fashion,450,North
+863,Training Basketball,Sports,329,East
+864,Ultra Bluetooth Speaker,Electronics,656,North
+865,Illustrated Statistics Book,Education,26,South
+866,Max Smart Plug,Electronics,844,South
+867,Training Knee Support,Sports,276,North
+868,Premium Resistance Bands,Sports,544,North
+869,Slim Fit Belt,Fashion,240,North
+870,Clinical Blood Pressure Monitor,Health,238,South
+871,Outdoor Water Bottle,Sports,358,West
+872,Smart Headphones,Electronics,1887,North
+873,Classic Drone,Electronics,411,South
+874,Advanced Chemistry Lab Manual,Education,19,North
+875,Imported Olive Oil Bottle,Grocery,41,North
+876,Organic Peanut Butter Jar,Grocery,78,East
+877,Foldable Table Lamp,Home,104,South
+878,Compact Cushion Cover,Home,284,South
+879,Advanced Hand Sanitizer Pack,Health,83,North
+880,Compact Air Purifier,Home,43,South
+881,Pro Hockey Stick,Sports,18,West
+882,Lite Headphones,Electronics,1581,North
+883,Practical Java Programming,Education,35,South
+884,Imported Spice Set,Grocery,20,East
+885,Portable Coffee Maker,Home,159,West
+886,Whole Grain Spice Set,Grocery,84,East
+887,Air Mechanical Keyboard,Electronics,1558,North
+888,Imported Coffee Beans Bag,Grocery,29,West
+889,Eco Curtain Set,Home,500,East
+890,Formal Formal Shoes,Fashion,344,West
+891,Foldable Blender,Home,260,South
+892,Foldable Wall Clock,Home,38,North
+893,Whole Grain Olive Oil Bottle,Grocery,92,South
+894,Advanced Multivitamin Pack,Health,257,North
+895,Training Golf Club,Sports,634,North
+896,Classic Wall Clock,Home,472,East
+897,Smart Smartphone,Electronics,627,West
+898,Complete Algebra Workbook,Education,97,South
+899,Mini Router,Electronics,1915,North
+900,Premium Badminton Set,Sports,691,South
+901,Trendy Formal Shoes,Fashion,183,North
+902,Ultra Mechanical Keyboard,Electronics,1310,West
+903,Portable Curtain Set,Home,280,East
+904,Classic Table Lamp,Home,64,South
+905,Modern Curtain Set,Home,69,West
+906,Classic Sneakers,Fashion,257,West
+907,Official Camping Tent,Sports,156,East
+908,Designer Belt,Fashion,347,North
+909,Official Swimming Goggles,Sports,564,West
+910,Complete Chemistry Lab Manual,Education,69,North
+911,Clinical Digital Thermometer,Health,281,South
+912,Pro Dumbbell Set,Sports,403,East
+913,Complete Statistics Book,Education,109,West
+914,Junior Cricket Bat,Sports,320,East
+915,Vintage Sunglasses,Fashion,283,West
+916,Wireless Power Bank,Electronics,1348,South
+917,Ultra VR Headset,Electronics,1689,North
+918,Lightweight Boxing Gloves,Sports,703,West
+919,Complete Chemistry Lab Manual,Education,57,East
+920,Imported Pasta Pack,Grocery,50,West
+921,Pro Cricket Bat,Sports,326,West
+922,Compact Wall Clock,Home,197,North
+923,Classic Sneakers,Fashion,98,West
+924,Imported Pasta Pack,Grocery,54,South
+925,Advanced Calculus Textbook,Education,110,North
+926,Premium Dried Fruits Pack,Grocery,14,North
+927,Air External SSD,Electronics,1348,West
+928,Eco Coffee Maker,Home,590,North
+929,Plus Smart Plug,Electronics,853,East
+930,Plus Smart Watch,Electronics,759,South
+931,Eco Bedsheet Set,Home,24,East
+932,Foldable Kitchen Knife Set,Home,401,East
+933,Herbal First Aid Kit,Health,195,East
+934,Fresh Peanut Butter Jar,Grocery,57,North
+935,Fresh Peanut Butter Jar,Grocery,114,East
+936,Local Coffee Beans Bag,Grocery,11,East
+937,Practical Flash Card Set,Education,72,South
+938,Vintage Sunglasses,Fashion,345,West
+939,Imported Peanut Butter Jar,Grocery,53,North
+940,Smart Webcam,Electronics,1175,North
+941,Compact Toaster,Home,508,South
+942,Deluxe Table Lamp,Home,159,East
+943,Illustrated Python Book,Education,88,South
+944,Heavy Duty Golf Club,Sports,542,East
+945,Designer Scarf,Fashion,258,South
+946,Applied Deep Learning Book,Education,55,South
+947,Fresh Coffee Beans Bag,Grocery,83,North
+948,Air Action Camera,Electronics,664,East
+949,Premium Dried Fruits Pack,Grocery,37,South
+950,Premium Yoga Mat,Sports,483,West
+951,Advanced Physics Reference,Education,30,North
+952,Imported Green Tea Box,Grocery,78,West
+953,Mini Power Bank,Electronics,1202,South
+954,Premium Honey Jar,Grocery,89,North
+955,Imported Pasta Pack,Grocery,21,South
+956,Organic Pasta Pack,Grocery,59,East
+957,Formal Belt,Fashion,149,South
+958,Organic Honey Jar,Grocery,14,South
+959,Slim Fit Handbag,Fashion,290,South
+960,Training Cycling Helmet,Sports,407,South
+961,Deluxe Curtain Set,Home,300,East
+962,Classic Air Purifier,Home,412,West
+963,Applied Deep Learning Book,Education,83,East
+964,Casual Cotton T-Shirt,Fashion,350,South
+965,Complete Python Book,Education,56,South
+966,Classic Scarf,Fashion,94,West
+967,Premium Green Tea Box,Grocery,72,South
+968,Classic Sunglasses,Fashion,300,West
+969,Mini USB Hub,Electronics,1989,North
+970,Clinical Herbal Tea Box,Health,40,West
+971,Smart Smart Plug,Electronics,150,North
+972,Pro Resistance Bands,Sports,336,West
+973,Herbal Vitamin C Tablets,Health,215,South
+974,Outdoor Hockey Stick,Sports,76,West
+975,Practical Encyclopedia Set,Education,32,South
+976,Complete Calculus Textbook,Education,31,North
+977,Pro Power Bank,Electronics,950,East
+978,Herbal Herbal Tea Box,Health,22,South
+979,Local Basmati Rice Pack,Grocery,16,South
+980,Smart USB Hub,Electronics,1877,East
+981,Herbal Hand Sanitizer Pack,Health,218,East
+982,Premium Treadmill,Sports,659,North
+983,Advanced Flash Card Set,Education,75,South
+984,Practical English Grammar Guide,Education,137,East
+985,Max Mechanical Keyboard,Electronics,47,East
+986,Advanced Machine Learning Guide,Education,95,South
+987,Formal Wool Sweater,Fashion,275,West
+988,Advanced Protein Powder,Health,38,South
+989,Imported Honey Jar,Grocery,12,West
+990,Applied Exam Prep Kit,Education,74,North
+991,Mini Graphics Card,Electronics,532,South
+992,Lite USB Hub,Electronics,824,South
+993,Designer Wool Sweater,Fashion,211,East
+994,Portable Bedsheet Set,Home,190,East
+995,Official Cricket Bat,Sports,601,North
+996,Portable Storage Rack,Home,26,South
+997,Illustrated Flash Card Set,Education,47,West
+998,Pro Swimming Goggles,Sports,124,West
+999,Training Treadmill,Sports,785,West
+1000,Foldable Cushion Cover,Home,274,West
+1001,Lightweight Resistance Bands,Sports,649,North
+1002,Applied Data Science Book,Education,73,South
+1003,Outdoor Knee Support,Sports,299,North
+1004,Training Skipping Rope,Sports,29,East
+1005,Imported Dried Fruits Pack,Grocery,35,South
+1006,Compact Wall Clock,Home,558,South
+1007,Wireless VR Headset,Electronics,586,South
+1008,Portable Wall Clock,Home,340,North
+1009,Compact Non-stick Pan,Home,439,North
+1010,Modern Mop Set,Home,272,North
+1011,Portable Bedsheet Set,Home,212,East
+1012,Casual Handbag,Fashion,435,South
+1013,Classic Wall Clock,Home,69,South
+1014,Lightweight Golf Club,Sports,598,West
+1015,Deluxe Coffee Maker,Home,418,North
+1016,Concise Data Science Book,Education,98,West
+1017,Eco Storage Rack,Home,369,South
+1018,Modern Wall Clock,Home,177,West
+1019,Beginner Python Book,Education,89,West
+1020,Applied Python Book,Education,96,West
+1021,Deluxe Non-stick Pan,Home,409,East
+1022,Heavy Duty Resistance Bands,Sports,585,West
+1023,Organic Honey Jar,Grocery,62,West
+1024,Formal Belt,Fashion,313,South
+1025,Clinical Protein Powder,Health,124,South
+1026,Advanced Flash Card Set,Education,87,West
+1027,Imported Peanut Butter Jar,Grocery,86,East
+1028,Plus Bluetooth Speaker,Electronics,1757,North
+1029,Herbal Herbal Tea Box,Health,32,North
+1030,Outdoor Swimming Goggles,Sports,431,West
+1031,Modern Wall Clock,Home,366,North
+1032,Eco Storage Rack,Home,495,South
+1033,Designer Cotton T-Shirt,Fashion,325,South
+1034,Natural Herbal Tea Box,Health,286,South
+1035,Compact Bedsheet Set,Home,176,West
+1036,Junior Golf Club,Sports,133,West
+1037,Whole Grain Honey Jar,Grocery,87,North
+1038,Foldable Cushion Cover,Home,370,North
+1039,Imported Coffee Beans Bag,Grocery,119,West
+1040,Foldable Coffee Maker,Home,113,South
+1041,Mini VR Headset,Electronics,452,South
+1042,Herbal Pain Relief Gel,Health,272,South
+1043,Fresh Peanut Butter Jar,Grocery,22,North
+1044,Designer Denim Jacket,Fashion,261,North
+1045,Foldable Air Purifier,Home,464,South
+1046,Deluxe Bedsheet Set,Home,525,South
+1047,Designer Belt,Fashion,52,West
+1048,Lightweight Badminton Set,Sports,538,West
+1049,Casual Leather Wallet,Fashion,100,North
+1050,Natural Face Mask Box,Health,212,West
+1051,Junior Dumbbell Set,Sports,455,East
+1052,Training Treadmill,Sports,382,North
+1053,Classic Baseball Cap,Fashion,288,East
+1054,Portable Mop Set,Home,127,North
+1055,Premium Running Shoes,Sports,740,South
+1056,Max Monitor,Electronics,507,East
+1057,Applied Dictionary,Education,78,North
+1058,Pro Gym Bag,Sports,49,North
+1059,Casual Hooded Sweatshirt,Fashion,70,West
+1060,Deluxe Air Purifier,Home,528,West
+1061,Herbal First Aid Kit,Health,152,East
+1062,Advanced Scientific Calculator,Education,118,South
+1063,Formal Baseball Cap,Fashion,91,East
+1064,Pro Water Bottle,Sports,746,West
+1065,Beginner Machine Learning Guide,Education,137,South
+1066,Max Smartphone,Electronics,1406,East
+1067,Smart Smart Watch,Electronics,671,West
+1068,Outdoor Golf Club,Sports,209,North
+1069,Deluxe Table Lamp,Home,494,South
+1070,Clinical Protein Powder,Health,203,East
+1071,Foldable Coffee Maker,Home,82,West
+1072,Junior Tennis Racket,Sports,772,North
+1073,Local Spice Set,Grocery,54,South
+1074,Lightweight Water Bottle,Sports,341,East
+1075,Fresh Olive Oil Bottle,Grocery,115,West
+1076,Mini Smartphone,Electronics,808,East
+1077,Trendy Sneakers,Fashion,94,West
+1078,Fresh Cereal Box,Grocery,67,South
+1079,Trendy Baseball Cap,Fashion,347,South
+1080,Natural Face Mask Box,Health,218,East
+1081,Whole Grain Peanut Butter Jar,Grocery,90,East
+1082,Formal Leather Wallet,Fashion,431,West
+1083,Official Boxing Gloves,Sports,119,North
+1084,Beginner Python Book,Education,137,West
+1085,Natural Vitamin C Tablets,Health,256,South
+1086,Max Action Camera,Electronics,1778,West
+1087,Mini Headphones,Electronics,1179,North
+1088,Pro Fitness Tracker,Electronics,1261,West
+1089,Daily Protein Powder,Health,184,West
+1090,Plus Webcam,Electronics,907,West
+1091,Classic Wool Sweater,Fashion,441,East
+1092,Applied Coding Notebook,Education,103,North
+1093,Daily Digital Thermometer,Health,236,South
+1094,Max USB Hub,Electronics,444,South
+1095,Lite Smart Watch,Electronics,1750,West
+1096,Pro Tennis Racket,Sports,39,West
+1097,Junior Hockey Stick,Sports,584,East
+1098,Organic Almonds Pack,Grocery,75,East
+1099,Beginner History Atlas,Education,88,North
+1100,Applied Data Science Book,Education,12,West
+1101,Applied Deep Learning Book,Education,54,East
+1102,Natural First Aid Kit,Health,78,North
+1103,Herbal Vitamin C Tablets,Health,183,North
+1104,Advanced Digital Thermometer,Health,243,East
+1105,Applied Algebra Workbook,Education,52,West
+1106,Clinical First Aid Kit,Health,155,South
+1107,Trendy Leather Wallet,Fashion,359,South
+1108,Lite Headphones,Electronics,1157,North
+1109,Classic Air Purifier,Home,257,West
+1110,Fresh Oatmeal Pack,Grocery,66,South
+1111,Classic Smart Watch,Electronics,1126,South
+1112,Deluxe Blender,Home,544,North
+1113,Training Football,Sports,317,North
+1114,Clinical Protein Powder,Health,121,West
+1115,Casual Sneakers,Fashion,123,West
+1116,Classic Table Lamp,Home,110,North
+1117,Fresh Almonds Pack,Grocery,47,South
+1118,Applied English Grammar Guide,Education,29,North
+1119,Eco Coffee Maker,Home,84,East
+1120,Pro Gaming Mouse,Electronics,209,West
+1121,Lightweight Badminton Set,Sports,782,East
+1122,Training Basketball,Sports,120,North
+1123,Daily Blood Pressure Monitor,Health,187,West
+1124,Pro Webcam,Electronics,1802,East
+1125,Smart Smart Watch,Electronics,1686,South
+1126,Illustrated Java Programming,Education,87,West
+1127,Clinical Pain Relief Gel,Health,241,South
+1128,Practical Encyclopedia Set,Education,118,West
+1129,Complete Statistics Book,Education,95,North
+1130,Classic Baseball Cap,Fashion,346,West
+1131,Natural Hand Sanitizer Pack,Health,174,West
+1132,Fresh Almonds Pack,Grocery,37,South
+1133,Practical Encyclopedia Set,Education,68,North
+1134,Imported Honey Jar,Grocery,84,South
+1135,Natural Digital Thermometer,Health,125,South
+1136,Mini Drone,Electronics,984,South
+1137,Smart VR Headset,Electronics,967,East
+1138,Advanced Digital Thermometer,Health,38,East
+1139,Classic Cotton T-Shirt,Fashion,194,West
+1140,Illustrated Calculus Textbook,Education,124,South
+1141,Premium Cereal Box,Grocery,73,East
+1142,Training Badminton Set,Sports,659,North
+1143,Heavy Duty Swimming Goggles,Sports,435,West
+1144,Junior Boxing Gloves,Sports,36,South
+1145,Premium Olive Oil Bottle,Grocery,58,West
+1146,Slim Fit Leather Wallet,Fashion,284,North
+1147,Ultra Headphones,Electronics,818,South
+1148,Fresh Coffee Beans Bag,Grocery,90,East
+1149,Classic USB Hub,Electronics,1011,South
+1150,Trendy Backpack,Fashion,191,South
+1151,Illustrated Deep Learning Book,Education,130,North
+1152,Fresh Peanut Butter Jar,Grocery,21,South
+1153,Beginner Physics Reference,Education,65,West
+1154,Applied Chemistry Lab Manual,Education,67,South
+1155,Ultra Action Camera,Electronics,866,South
+1156,Natural Protein Powder,Health,75,North
+1157,Formal Denim Jacket,Fashion,51,North
+1158,Heavy Duty Camping Tent,Sports,592,North
+1159,Outdoor Football,Sports,713,East
+1160,Classic Cotton T-Shirt,Fashion,50,South
+1161,Casual Wrist Watch,Fashion,406,West
+1162,Ultra Fitness Tracker,Electronics,503,West
+1163,Smart USB Hub,Electronics,733,West
+1164,Classic Non-stick Pan,Home,271,West
+1165,Whole Grain Pasta Pack,Grocery,108,South
+1166,Vintage Sneakers,Fashion,453,West
+1167,Outdoor Knee Support,Sports,639,West
+1168,Daily Pain Relief Gel,Health,185,North
+1169,Applied Scientific Calculator,Education,59,East
+1170,Herbal Digital Thermometer,Health,297,North
+1171,Heavy Duty Cycling Helmet,Sports,328,East
+1172,Premium Football,Sports,269,North
+1173,Modern Toaster,Home,351,South
+1174,Practical Python Book,Education,100,South
+1175,Plus Monitor,Electronics,1409,West
+1176,Max Graphics Card,Electronics,994,East
+1177,Classic Toaster,Home,115,East
+1178,Whole Grain Pasta Pack,Grocery,51,North
+1179,Complete Physics Reference,Education,111,South
+1180,Classic Kitchen Knife Set,Home,590,West
+1181,Herbal Multivitamin Pack,Health,268,South
+1182,Organic Peanut Butter Jar,Grocery,87,North
+1183,Clinical Pain Relief Gel,Health,223,East
+1184,Training Cycling Helmet,Sports,646,East
+1185,Classic Curtain Set,Home,433,North
+1186,Vintage Belt,Fashion,372,South
+1187,Advanced Multivitamin Pack,Health,205,North
+1188,Official Basketball,Sports,396,North
+1189,Advanced Dictionary,Education,121,North
+1190,Designer Denim Jacket,Fashion,326,West
+1191,Clinical Multivitamin Pack,Health,243,South
+1192,Premium Camping Tent,Sports,327,East
+1193,Local Almonds Pack,Grocery,17,East
+1194,Compact Kitchen Knife Set,Home,570,West
+1195,Outdoor Hockey Stick,Sports,550,East
+1196,Heavy Duty Water Bottle,Sports,532,West
+1197,Slim Fit Belt,Fashion,88,South
+1198,Daily Digital Thermometer,Health,55,West
+1199,Whole Grain Oatmeal Pack,Grocery,6,South
+1200,Applied Flash Card Set,Education,36,South
+1201,Casual Sneakers,Fashion,338,East
+1202,Smart Power Bank,Electronics,1441,West
+1203,Premium Water Bottle,Sports,727,East
+1204,Plus Mechanical Keyboard,Electronics,1450,South
+1205,Complete Encyclopedia Set,Education,93,East
+1206,Fresh Oatmeal Pack,Grocery,13,East
+1207,Foldable Microwave Oven,Home,286,East
+1208,Whole Grain Green Tea Box,Grocery,115,West
+1209,Compact Mop Set,Home,549,East
+1210,Applied Scientific Calculator,Education,59,South
+1211,Applied Calculus Textbook,Education,110,East
+1212,Clinical Herbal Tea Box,Health,147,East
+1213,Herbal Vitamin C Tablets,Health,154,West
+1214,Practical History Atlas,Education,61,South
+1215,Whole Grain Olive Oil Bottle,Grocery,80,North
+1216,Slim Fit Belt,Fashion,392,East
+1217,Max Graphics Card,Electronics,1815,West
+1218,Slim Fit Baseball Cap,Fashion,224,East
+1219,Lightweight Treadmill,Sports,765,East
+1220,Daily Protein Powder,Health,178,East
+1221,Air Power Bank,Electronics,500,South
+1222,Practical Coding Notebook,Education,87,East
+1223,Trendy Leather Wallet,Fashion,140,West
+1224,Ultra Router,Electronics,1508,West
+1225,Slim Fit Sneakers,Fashion,225,West
+1226,Heavy Duty Gym Bag,Sports,124,North
+1227,Imported Green Tea Box,Grocery,64,West
+1228,Clinical Hand Sanitizer Pack,Health,139,South
+1229,Complete Scientific Calculator,Education,47,North
+1230,Casual Baseball Cap,Fashion,456,South
+1231,Imported Green Tea Box,Grocery,99,South
+1232,Applied English Grammar Guide,Education,96,South
+1233,Modern Vacuum Cleaner,Home,77,South
+1234,Training Treadmill,Sports,700,North
+1235,Local Spice Set,Grocery,16,West
+1236,Slim Fit Wrist Watch,Fashion,185,South
+1237,Practical Dictionary,Education,22,East
+1238,Applied Scientific Calculator,Education,45,West
+1239,Clinical Pain Relief Gel,Health,222,West
+1240,Eco Kitchen Knife Set,Home,390,North
+1241,Daily Digital Thermometer,Health,240,East
+1242,Illustrated Statistics Book,Education,51,South
+1243,Training Knee Support,Sports,605,West
+1244,Advanced Face Mask Box,Health,234,South
+1245,Clinical Multivitamin Pack,Health,284,East
+1246,Advanced Calculus Textbook,Education,81,North
+1247,Natural Hand Sanitizer Pack,Health,83,South
+1248,Vintage Handbag,Fashion,220,West
+1249,Local Basmati Rice Pack,Grocery,53,West
+1250,Local Spice Set,Grocery,107,East
+1251,Pro Golf Club,Sports,476,West
+1252,Casual Handbag,Fashion,276,West
+1253,Imported Almonds Pack,Grocery,78,South
+1254,Classic Smart Watch,Electronics,408,South
+1255,Compact Non-stick Pan,Home,391,North
+1256,Junior Cricket Bat,Sports,312,West
+1257,Portable Cushion Cover,Home,55,South
+1258,Advanced Statistics Book,Education,140,West
+1259,Portable Coffee Maker,Home,200,West
+1260,Air Power Bank,Electronics,505,East
+1261,Max Laptop,Electronics,1167,South
+1262,Herbal Vitamin C Tablets,Health,45,East
+1263,Natural First Aid Kit,Health,66,West
+1264,Daily Face Mask Box,Health,289,North
+1265,Designer Belt,Fashion,423,East
+1266,Eco Microwave Oven,Home,579,West
+1267,Herbal Face Mask Box,Health,297,East
+1268,Concise Machine Learning Guide,Education,133,North
+1269,Casual Cotton T-Shirt,Fashion,351,East
+1270,Casual Sneakers,Fashion,177,West
+1271,Imported Green Tea Box,Grocery,98,South
+1272,Advanced Blood Pressure Monitor,Health,90,West
+1273,Advanced First Aid Kit,Health,219,North
+1274,Official Cricket Bat,Sports,270,North
+1275,Daily Multivitamin Pack,Health,282,North
+1276,Premium Running Shoes,Sports,15,South
+1277,Wireless Smart Plug,Electronics,1092,North
+1278,Portable Coffee Maker,Home,588,East
+1279,Premium Hockey Stick,Sports,797,West
+1280,Max Smartphone,Electronics,1135,North
+1281,Lightweight Yoga Mat,Sports,97,West
+1282,Concise English Grammar Guide,Education,84,East
+1283,Practical History Atlas,Education,124,East
+1284,Plus Smart Watch,Electronics,418,South
+1285,Whole Grain Honey Jar,Grocery,38,West
+1286,Modern Mop Set,Home,468,South
+1287,Advanced Protein Powder,Health,85,North
+1288,Daily Herbal Tea Box,Health,163,South
+1289,Official Camping Tent,Sports,746,East
+1290,Foldable Storage Rack,Home,592,East
+1291,Fresh Coffee Beans Bag,Grocery,21,East
+1292,Deluxe Curtain Set,Home,309,North
+1293,Air Graphics Card,Electronics,1282,West
+1294,Advanced Blood Pressure Monitor,Health,39,East
+1295,Classic Baseball Cap,Fashion,42,South
+1296,Daily Herbal Tea Box,Health,250,East
+1297,Portable Wall Clock,Home,198,West
+1298,Junior Yoga Mat,Sports,154,East
+1299,Complete English Grammar Guide,Education,109,West
+1300,Classic Wrist Watch,Fashion,34,West
+1301,Trendy Hooded Sweatshirt,Fashion,357,East
+1302,Whole Grain Oatmeal Pack,Grocery,90,West
+1303,Ultra External SSD,Electronics,834,North
+1304,Deluxe Storage Rack,Home,43,North
+1305,Applied Statistics Book,Education,73,East
+1306,Mini Smart Watch,Electronics,1182,West
+1307,Modern Mop Set,Home,389,South
+1308,Clinical First Aid Kit,Health,46,West
+1309,Applied English Grammar Guide,Education,150,East
+1310,Daily Multivitamin Pack,Health,59,West
+1311,Local Olive Oil Bottle,Grocery,16,North
+1312,Pro Action Camera,Electronics,1519,East
+1313,Herbal Multivitamin Pack,Health,89,West
+1314,Illustrated Statistics Book,Education,31,West
+1315,Casual Hooded Sweatshirt,Fashion,110,North
+1316,Deluxe Wall Clock,Home,288,West
+1317,Applied Flash Card Set,Education,107,East
+1318,Classic Table Lamp,Home,595,North
+1319,Portable Microwave Oven,Home,114,South
+1320,Classic Denim Jacket,Fashion,106,South
+1321,Pro Camping Tent,Sports,782,East
+1322,Daily Hand Sanitizer Pack,Health,147,North
+1323,Concise Coding Notebook,Education,48,North
+1324,Advanced Protein Powder,Health,21,South
+1325,Trendy Wrist Watch,Fashion,484,North
+1326,Daily Pain Relief Gel,Health,194,North
+1327,Local Almonds Pack,Grocery,61,East
+1328,Heavy Duty Hockey Stick,Sports,641,North
+1329,Premium Hockey Stick,Sports,611,South
+1330,Illustrated Statistics Book,Education,90,East
+1331,Lite Tablet,Electronics,230,West
+1332,Designer Sunglasses,Fashion,265,North
+1333,Advanced Protein Powder,Health,153,East
+1334,Herbal Pain Relief Gel,Health,191,North
+1335,Fresh Pasta Pack,Grocery,25,North
+1336,Plus VR Headset,Electronics,1281,East
+1337,Herbal Vitamin C Tablets,Health,185,West
+1338,Outdoor Football,Sports,518,South
+1339,Whole Grain Green Tea Box,Grocery,50,South
+1340,Air Webcam,Electronics,781,West
+1341,Premium Basketball,Sports,162,West
+1342,Natural First Aid Kit,Health,156,North
+1343,Practical Calculus Textbook,Education,92,North
+1344,Heavy Duty Camping Tent,Sports,772,East
+1345,Foldable Cushion Cover,Home,314,West
+1346,Foldable Kitchen Knife Set,Home,175,West
+1347,Imported Dried Fruits Pack,Grocery,34,North
+1348,Lite External SSD,Electronics,842,South
+1349,Illustrated Deep Learning Book,Education,17,South
+1350,Organic Peanut Butter Jar,Grocery,8,South
+1351,Herbal Face Mask Box,Health,92,South
+1352,Junior Skipping Rope,Sports,290,South
+1353,Slim Fit Backpack,Fashion,389,West
+1354,Pro Skipping Rope,Sports,445,North
+1355,Slim Fit Sneakers,Fashion,497,East
+1356,Formal Wool Sweater,Fashion,373,East
+1357,Classic Belt,Fashion,107,South
+1358,Foldable Table Lamp,Home,394,North
+1359,Natural Pain Relief Gel,Health,120,South
+1360,Clinical Vitamin C Tablets,Health,92,West
+1361,Casual Backpack,Fashion,288,North
+1362,Designer Formal Shoes,Fashion,442,North
+1363,Whole Grain Cereal Box,Grocery,6,South
+1364,Heavy Duty Basketball,Sports,708,South
+1365,Fresh Spice Set,Grocery,95,East
+1366,Ultra Smartphone,Electronics,1447,North
+1367,Clinical First Aid Kit,Health,65,South
+1368,Advanced Multivitamin Pack,Health,294,South
+1369,Lite Gaming Mouse,Electronics,943,West
+1370,Imported Cereal Box,Grocery,101,South
+1371,Concise Deep Learning Book,Education,90,North
+1372,Daily Pain Relief Gel,Health,86,East
+1373,Clinical Hand Sanitizer Pack,Health,297,North
+1374,Premium Football,Sports,59,South
+1375,Eco Microwave Oven,Home,481,North
+1376,Eco Storage Rack,Home,238,West
+1377,Organic Pasta Pack,Grocery,104,West
+1378,Casual Belt,Fashion,262,South
+1379,Daily Digital Thermometer,Health,231,West
+1380,Fresh Dried Fruits Pack,Grocery,21,West
+1381,Junior Resistance Bands,Sports,747,East
+1382,Trendy Scarf,Fashion,341,East
+1383,Classic Hooded Sweatshirt,Fashion,370,East
+1384,Organic Pasta Pack,Grocery,114,West
+1385,Beginner Algebra Workbook,Education,83,East
+1386,Trendy Wrist Watch,Fashion,222,North
+1387,Classic Baseball Cap,Fashion,187,East
+1388,Lightweight Football,Sports,475,West
+1389,Portable Air Purifier,Home,258,East
+1390,Heavy Duty Gym Bag,Sports,741,North
+1391,Designer Handbag,Fashion,322,West
+1392,Advanced Multivitamin Pack,Health,271,West
+1393,Junior Dumbbell Set,Sports,158,South
+1394,Clinical Hand Sanitizer Pack,Health,210,West
+1395,Modern Blender,Home,574,East
+1396,Deluxe Microwave Oven,Home,215,East
+1397,Fresh Dried Fruits Pack,Grocery,37,North
+1398,Fresh Coffee Beans Bag,Grocery,51,North
+1399,Fresh Cereal Box,Grocery,37,North
+1400,Smart Smartphone,Electronics,640,South
+1401,Natural Digital Thermometer,Health,258,East
+1402,Clinical Digital Thermometer,Health,82,South
+1403,Modern Microwave Oven,Home,372,East
+1404,Complete Flash Card Set,Education,139,West
+1405,Pro Cricket Bat,Sports,422,East
+1406,Designer Sneakers,Fashion,181,West
+1407,Outdoor Water Bottle,Sports,744,North
+1408,Herbal Face Mask Box,Health,238,West
+1409,Pro Monitor,Electronics,752,West
+1410,Trendy Leather Wallet,Fashion,171,South
+1411,Clinical Pain Relief Gel,Health,278,West
+1412,Foldable Microwave Oven,Home,133,North
+1413,Premium Tennis Racket,Sports,124,South
+1414,Formal Scarf,Fashion,54,East
+1415,Mini Power Bank,Electronics,409,South
+1416,Junior Camping Tent,Sports,773,South
+1417,Foldable Storage Rack,Home,504,North
+1418,Daily Blood Pressure Monitor,Health,192,East
+1419,Classic Formal Shoes,Fashion,150,South
+1420,Daily Digital Thermometer,Health,294,South
+1421,Fresh Cereal Box,Grocery,118,South
+1422,Applied Flash Card Set,Education,112,West
+1423,Outdoor Running Shoes,Sports,384,East
+1424,Plus Laptop,Electronics,581,North
+1425,Casual Denim Jacket,Fashion,375,East
+1426,Local Spice Set,Grocery,41,West
+1427,Whole Grain Coffee Beans Bag,Grocery,53,West
+1428,Herbal Hand Sanitizer Pack,Health,36,South
+1429,Eco Table Lamp,Home,585,West
+1430,Formal Wool Sweater,Fashion,166,East
+1431,Eco Storage Rack,Home,101,North
+1432,Classic Leather Wallet,Fashion,500,South
+1433,Imported Cereal Box,Grocery,64,East
+1434,Daily Face Mask Box,Health,150,West
+1435,Premium Honey Jar,Grocery,15,South
+1436,Classic Curtain Set,Home,372,West
+1437,Complete Algebra Workbook,Education,145,West
+1438,Ultra Action Camera,Electronics,1600,South
+1439,Modern Non-stick Pan,Home,340,West
+1440,Premium Dumbbell Set,Sports,471,South
+1441,Portable Vacuum Cleaner,Home,252,North
+1442,Training Knee Support,Sports,569,South
+1443,Plus Action Camera,Electronics,1729,North
+1444,Plus USB Hub,Electronics,428,North
+1445,Classic Cotton T-Shirt,Fashion,302,North
+1446,Foldable Kitchen Knife Set,Home,52,East
+1447,Clinical First Aid Kit,Health,156,North
+1448,Advanced Machine Learning Guide,Education,108,East
+1449,Eco Wall Clock,Home,330,East
+1450,Classic Graphics Card,Electronics,686,North
+1451,Lightweight Badminton Set,Sports,108,South
+1452,Heavy Duty Resistance Bands,Sports,727,West
+1453,Vintage Formal Shoes,Fashion,92,North
+1454,Whole Grain Dried Fruits Pack,Grocery,87,North
+1455,Illustrated Encyclopedia Set,Education,93,West
+1456,Complete Dictionary,Education,137,West
+1457,Wireless Mechanical Keyboard,Electronics,1986,North
+1458,Deluxe Coffee Maker,Home,284,East
+1459,Mini USB Hub,Electronics,208,East
+1460,Local Oatmeal Pack,Grocery,92,North
+1461,Applied Encyclopedia Set,Education,51,North
+1462,Modern Blender,Home,555,West
+1463,Wireless USB Hub,Electronics,1373,South
+1464,Compact Vacuum Cleaner,Home,598,North
+1465,Max USB Hub,Electronics,147,South
+1466,Natural Face Mask Box,Health,188,North
+1467,Compact Air Purifier,Home,419,West
+1468,Vintage Cotton T-Shirt,Fashion,317,West
+1469,Clinical Blood Pressure Monitor,Health,12,North
+1470,Air Power Bank,Electronics,1831,North
+1471,Eco Mop Set,Home,291,North
+1472,Imported Dried Fruits Pack,Grocery,85,West
+1473,Foldable Vacuum Cleaner,Home,117,North
+1474,Complete Calculus Textbook,Education,80,East
+1475,Applied Chemistry Lab Manual,Education,124,South
+1476,Illustrated Flash Card Set,Education,116,North
+1477,Classic Storage Rack,Home,266,South
+1478,Lightweight Football,Sports,502,North
+1479,Herbal Digital Thermometer,Health,172,North
+1480,Official Badminton Set,Sports,779,West
+1481,Junior Golf Club,Sports,115,North
+1482,Daily Blood Pressure Monitor,Health,220,East
+1483,Heavy Duty Basketball,Sports,613,North
+1484,Concise Statistics Book,Education,74,North
+1485,Natural Herbal Tea Box,Health,34,East
+1486,Clinical First Aid Kit,Health,257,North
+1487,Fresh Basmati Rice Pack,Grocery,95,South
+1488,Heavy Duty Treadmill,Sports,108,West
+1489,Ultra Bluetooth Speaker,Electronics,1085,South
+1490,Classic Smart Plug,Electronics,1446,South
+1491,Advanced Blood Pressure Monitor,Health,276,South
+1492,Classic Sunglasses,Fashion,484,East
+1493,Designer Denim Jacket,Fashion,363,North
+1494,Eco Microwave Oven,Home,573,West
+1495,Pro Golf Club,Sports,330,East
+1496,Local Peanut Butter Jar,Grocery,90,North
+1497,Heavy Duty Yoga Mat,Sports,52,West
+1498,Clinical Digital Thermometer,Health,110,West
+1499,Imported Olive Oil Bottle,Grocery,19,West
+1500,Vintage Cotton T-Shirt,Fashion,326,South
